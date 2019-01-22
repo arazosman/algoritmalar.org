@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "stack.h" // stack fonksiyonlarını bu dosyanın içine yazdık
+#include "stack.h"
 
 int main()
 {
