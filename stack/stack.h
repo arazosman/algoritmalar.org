@@ -17,7 +17,7 @@ typedef struct
 
 void initializeStack(STACK *stack)
 {
-    stack->size = 4;
+    stack->size = 2;
     stack->top = 0;
     stack->st = (int *)malloc(stack->size*sizeof(int));
 }
